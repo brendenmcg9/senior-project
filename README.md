@@ -10,6 +10,6 @@
 
 - Web app was created using Bootstrap framework, HTML, CSS, PHP, Javascript, and MySQL
 
-- My contributions to this project include ALL of the Bootstrap, HTML, and CSS. I also managed and tweaked some of the PHP.
+- My contributions to this project include ALL of the Bootstrap, HTML, and CSS. I also managed and tweaked some of the PHP. File naming was not my choice for the admin pages.
 
 - Due to deadlines the code was never able to be fully commented
